@@ -22,10 +22,10 @@ This tutorial provides a step-by-step walkthrough for configuring Active Directo
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Set up an Azure Virtual Network (VNet) and create a virtual machine (VM) within it.
+- Install Active Directory Domain Services (AD DS) on the VM and promote it to a domain controller.
+- Configure DNS settings for proper name resolution and set the AD DS server as the preferred DNS server.
+- Join other Azure VMs to the Active Directory domain by specifying the AD DS server as the preferred DNS server and joining the VMs to the   domain using the domain name and appropriate credentials.
 
 <h2>Deployment and Configuration Steps</h2>
 
