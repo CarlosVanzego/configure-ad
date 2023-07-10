@@ -3,7 +3,7 @@
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial provides a step-by-step walkthrough for configuring Active Directory within Azure VMs for a GitHub repository. The project involves setting up an Azure Virtual Network (VNet) and creating a virtual machine (VM) within it. Active Directory Domain Services (AD DS) is installed on the VM, which is promoted to a domain controller. DNS settings are configured to ensure proper name resolution and other Azure VMs are joined to the Active Directory domain. The languages used in this project include Azure PowerShell and possibly scripting languages like PowerShell or Bash. The Azure portal and Server Manager may be used as environments, and the technology/services employed include Azure, Active Directory, DNS Manager.<br />
 
 
 
