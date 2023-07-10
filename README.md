@@ -61,4 +61,4 @@ Lastly, you need to join your other Azure VMs to the Active Directory domain. Ac
 </p>
 <br />
 
-By following these four paragraphs of steps, you can successfully configure Active Directory within Azure VMs
+By following these four steps, you can successfully configure Active Directory within Azure VMs.
